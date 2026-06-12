@@ -32,7 +32,7 @@ full undo, structured logging, and a tkinter GUI.
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/smart-file-organizer.git
+git clone https://github.com/AranudB/smart-file-organizer.git
 cd smart-file-organizer
 python main.py
 ```
