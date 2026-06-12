@@ -5,6 +5,10 @@ full undo, structured logging, and a tkinter GUI.
 
 ---
 
+![alt text](docs/image.png)
+
+---
+
 ## Features
 
 | Feature | Details |
